@@ -10,7 +10,7 @@ public class Book {
             this.titulo = titulo;
             this.autor = autor;
             this.editora = editora;
-            this.sbn = isbn;
+            this.isbn = isbn;
             this.qqtEstoque = qqtEstoque;
         }
     
