@@ -33,7 +33,7 @@ public class Book {
 
     
         public void setIsbn(String isbn) {
-            this.sbn = isbn;
+            this.isbn = isbn;
         }
         
 
